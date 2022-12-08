@@ -15,8 +15,8 @@ My GitHub page is http://github.com/taniah01.
    Lab 2, part 1 was one of my favorite labs because the 
    purpose of this lab was to identify messy programs. It 
    taught me that even if a program runs, it is still 
-   importantthat it is formatted correctly in order to 
-   look nice and of consideration for other programmers. 
+   important that it is formatted correctly in order to 
+   look nice and in consideration for other programmers. 
    If someone needed to collaborate with you on your program it 
    makes it easier for them to read your work when it is neatly organized. 
 
