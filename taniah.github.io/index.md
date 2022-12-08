@@ -4,7 +4,7 @@ This is my home page! My name is Tania Hernandez and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is https://taniah01github.io
+My GitHub page is http://github.com/taniah01.
 
 ### CPSC 120
 
