@@ -32,4 +32,4 @@ My GitHub page is http://github.com/taniah01.
     how the program incorporated math with programming. I like 
     when different topics are combined together to form something. 
     Also, this was my first time implementing loops in my program 
-    and I learned how they come in handy in programming. 
+    and I learned how they come in handy in programming.
